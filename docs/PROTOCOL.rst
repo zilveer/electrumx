@@ -639,7 +639,7 @@ protocol versions.
 
   An optional string identifying the connecting client software.
 
-**protocol_verion**
+**protocol_version**
 
   Optional with default value ["1.1", "1,1"].
 
